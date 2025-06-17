@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Juan OS - Sistema Operacional Interativo",
   description: "Currículo digital revolucionário de Juan Cristian Kunz de Borba em formato de Sistema Operacional",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
